@@ -47,5 +47,3 @@ next-env.d.ts
 .vercel
 .env*
 
-# CV con datos personales (teléfono/dirección): no subir
-/public/cv-*.pdf
