@@ -6,5 +6,5 @@ export const contact = {
   instagram: "https://www.instagram.com/daviid_l_/",
   // Ruta al PDF dentro de /public (p. ej. "/cv-david-lozada.pdf").
   // Vacío → /curriculum muestra "Próximamente".
-  cvUrl: "/cv-david-lozada.pdf",
+  cvUrl: "",
 };
