@@ -1,11 +1,11 @@
 import Image from "next/image";
-import lain from "@/public/lain.jpg";
+import fondo from "@/public/fondo.jpg";
 
 export function Background({ dim = false }: { dim?: boolean }) {
   return (
     <div className={`bg ${dim ? "bg--dim" : ""}`} aria-hidden="true">
       <Image
-        src={lain}
+        src={fondo}
         alt=""
         fill
         priority

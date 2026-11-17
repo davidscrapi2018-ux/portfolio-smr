@@ -62,7 +62,7 @@ a:focus-visible {
 
 .bg-img {
   object-fit: cover;
-  object-position: 62% 30%;
+  object-position: center;
   filter: grayscale(1) contrast(1.08);
   animation: bgIn 2.2s ease-out both;
 }
